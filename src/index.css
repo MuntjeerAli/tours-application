@@ -66,9 +66,7 @@ body {
       line-height: 1;
     }
   }
-  /*  global classes */
   
-  /* section */
   .section {
     width: 90vw;
     margin: 0 auto;
@@ -93,11 +91,7 @@ body {
     margin-top: 2rem;
     font-size: 1.2rem;
   }
-  /*
-  =============== 
-  Tours
-  ===============
-  */
+  
   main {
     width: 90vw;
     max-width: 620px;
