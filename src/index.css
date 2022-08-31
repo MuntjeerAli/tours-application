@@ -173,3 +173,9 @@ body {
     padding: 0.25rem 0.5rem;
     border-radius: 0.25rem;
   }
+
+  @media screen and (max-width: 754px){
+    .content{
+      width: 100%;
+    }
+  }
